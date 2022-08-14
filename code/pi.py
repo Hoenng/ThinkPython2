@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 """This module contains a code example related to
 
 Think Python, 2nd Edition
